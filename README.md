@@ -1,1 +1,2 @@
-Este eh um repo p teste do github
+Este é um repositório para teste do github
+preciso aprender isso, acho que será uma boa pra mim ..
